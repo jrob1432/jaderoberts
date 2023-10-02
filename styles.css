@@ -1,9 +1,23 @@
 body {
-  background-color: lightblue;
+  
+    top: 0;
+    left: 0;
+    height: auto;
+    width: auto;
+    position: sticky;
+    /* display: flex; */
+    display: flow-root;
+    /* justify-content: flex-end; */
+    /* background-color: #FDC835; */
+    /* background-color: lightgrey; */
+    /* background-color: silver; */
+    background-color: lightblue;
+    padding: 2vw;
+    z-index: 100;
 }
 
 h1 {
-  color: white;
+  color: linen;
   text-align: center;
 }
 
