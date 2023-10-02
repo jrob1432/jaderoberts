@@ -25,3 +25,11 @@ p {
   font-family: Gabarito;
   font-size: 20px;
 }
+lbl-toggle {
+    /* background-image: linear-gradient(-30deg, transparent 20%, yellow); */
+    display: block;
+    padding: 0;
+    cursor: pointer;
+    /* border-radius: 7px; */
+    transition: all 0.25s ease-out;
+}
