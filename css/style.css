@@ -11133,7 +11133,7 @@ header {
     padding: 2vw;
     z-index: 100;
 }
-* {
+{
     margin: 0;
     box-sizing: border-box;
 }
