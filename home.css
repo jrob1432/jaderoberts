@@ -1,0 +1,831 @@
+/* Home */
+
+position: relative;
+width: 1440px;
+height: 966px;
+overflow-y: scroll;
+
+background: linear-gradient(180deg, #8ECAE6 0%, #219EBC 100%), #FFFFFF;
+
+
+/* Menu */
+
+position: absolute;
+width: 1440px;
+height: 120px;
+left: -1px;
+top: 0px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+/* Rectangle 1 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #8ECAE6;
+
+
+/* Logo */
+
+position: absolute;
+left: 90.97%;
+right: 1.95%;
+top: 2.5%;
+bottom: 3.03%;
+
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 90.97%;
+right: 5.78%;
+top: 2.5%;
+bottom: 15.04%;
+
+background: linear-gradient(180deg, rgba(255, 168, 0, 0.5) 0%, rgba(255, 255, 255, 0.5) 100%);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+left: 92.43%;
+right: 3.32%;
+top: 13.33%;
+bottom: 1.21%;
+
+background: linear-gradient(180deg, rgba(222, 77, 134, 0.5) 19.3%, rgba(255, 255, 255, 0.5) 106.47%);
+transform: matrix(0.98, -0.21, 0.21, 0.98, 0, 0);
+
+
+/* About Jade */
+
+position: absolute;
+left: 15.97%;
+right: 70.62%;
+top: 30.83%;
+bottom: 30.83%;
+
+font-family: 'Lilita One';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 46px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Home */
+
+position: absolute;
+left: 4.03%;
+right: 89.17%;
+top: 30.83%;
+bottom: 30.83%;
+
+font-family: 'Lilita One';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 46px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Projects */
+
+position: absolute;
+left: 34.51%;
+right: 55.76%;
+top: 30.83%;
+bottom: 30.83%;
+
+font-family: 'Lilita One';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 46px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Creative Outlets */
+
+position: absolute;
+left: 49.38%;
+right: 31.18%;
+top: 30.83%;
+bottom: 30.83%;
+
+font-family: 'Lilita One';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 46px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Contact */
+
+position: absolute;
+left: 73.96%;
+right: 16.81%;
+top: 30.83%;
+bottom: 30.83%;
+
+font-family: 'Lilita One';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 46px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+visibility: hidden;
+width: 1487px;
+height: 662px;
+left: -66px;
+top: 2125px;
+
+background: #000000;
+
+
+/* Group 21 */
+
+position: absolute;
+width: 1154px;
+height: 712.22px;
+left: 360px;
+top: 216px;
+
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 126.41px;
+height: 115.55px;
+left: 640.48px;
+top: 310.08px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.98, 0.22, -0.69, -0.72, 0, 0);
+
+
+/* Ellipse 5 */
+
+position: absolute;
+width: 126.41px;
+height: 115.55px;
+left: 761.79px;
+top: 326.18px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.98, 0.22, -0.69, -0.72, 0, 0);
+
+
+/* Ellipse 6 */
+
+position: absolute;
+width: 132.01px;
+height: 102.71px;
+left: 541.49px;
+top: 391.45px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.99, -0.14, 0.51, -0.86, 0, 0);
+
+
+/* Ellipse 10 */
+
+position: absolute;
+width: 126.41px;
+height: 115.55px;
+left: 821.35px;
+top: 503.66px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.98, 0.22, -0.69, -0.72, 0, 0);
+
+
+/* Ellipse 11 */
+
+position: absolute;
+width: 126.41px;
+height: 115.55px;
+left: 942.66px;
+top: 519.77px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.98, 0.22, -0.69, -0.72, 0, 0);
+
+
+/* Ellipse 12 */
+
+position: absolute;
+width: 132.01px;
+height: 102.71px;
+left: 722.35px;
+top: 585.04px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.99, -0.14, 0.51, -0.86, 0, 0);
+
+
+/* Ellipse 13 */
+
+position: absolute;
+width: 73.86px;
+height: 183.58px;
+left: 1438.47px;
+top: 515.5px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(0.51, 0.86, -0.99, 0.14, 0, 0);
+
+
+/* Ellipse 14 */
+
+position: absolute;
+width: 108.11px;
+height: 147.14px;
+left: 482.1px;
+top: 578.02px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.91, -0.43, 0.89, -0.45, 0, 0);
+
+
+/* Ellipse 15 */
+
+position: absolute;
+width: 128.53px;
+height: 110.93px;
+left: 570.1px;
+top: 649.03px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.98, -0.19, 0.64, -0.77, 0, 0);
+
+
+/* Ellipse 16 */
+
+position: absolute;
+width: 108.11px;
+height: 147.14px;
+left: 457.84px;
+top: 507.52px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.91, -0.43, 0.89, -0.45, 0, 0);
+
+
+/* Ellipse 7 */
+
+position: absolute;
+width: 126.41px;
+height: 115.55px;
+left: 722.09px;
+top: 407.41px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.98, 0.22, -0.69, -0.72, 0, 0);
+
+
+/* Ellipse 8 */
+
+position: absolute;
+width: 126.41px;
+height: 115.55px;
+left: 843.4px;
+top: 423.51px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.98, 0.22, -0.69, -0.72, 0, 0);
+
+
+/* Ellipse 9 */
+
+position: absolute;
+width: 132.01px;
+height: 102.71px;
+left: 623.1px;
+top: 488.78px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.99, -0.14, 0.51, -0.86, 0, 0);
+
+
+/* Ellipse 17 */
+
+position: absolute;
+width: 126.41px;
+height: 115.55px;
+left: 1134.96px;
+top: 534.88px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.98, 0.22, -0.69, -0.72, 0, 0);
+
+
+/* Ellipse 18 */
+
+position: absolute;
+width: 126.41px;
+height: 115.55px;
+left: 1256.27px;
+top: 550.98px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.98, 0.22, -0.69, -0.72, 0, 0);
+
+
+/* Ellipse 19 */
+
+position: absolute;
+width: 132.01px;
+height: 102.71px;
+left: 1035.97px;
+top: 616.25px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.99, -0.14, 0.51, -0.86, 0, 0);
+
+
+/* Ellipse 20 */
+
+position: absolute;
+width: 126.41px;
+height: 115.55px;
+left: 1315.82px;
+top: 728.47px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.98, 0.22, -0.69, -0.72, 0, 0);
+
+
+/* Ellipse 21 */
+
+position: absolute;
+width: 126.41px;
+height: 115.55px;
+left: 1437.13px;
+top: 744.57px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.98, 0.22, -0.69, -0.72, 0, 0);
+
+
+/* Ellipse 22 */
+
+position: absolute;
+width: 132.01px;
+height: 102.71px;
+left: 1216.83px;
+top: 809.84px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.99, -0.14, 0.51, -0.86, 0, 0);
+
+
+/* Ellipse 23 */
+
+position: absolute;
+width: 73.86px;
+height: 183.58px;
+left: 1476.51px;
+top: 591.94px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(0.51, 0.86, -0.99, 0.14, 0, 0);
+
+
+/* Ellipse 24 */
+
+position: absolute;
+width: 108.11px;
+height: 147.14px;
+left: 976.58px;
+top: 802.82px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.91, -0.43, 0.89, -0.45, 0, 0);
+
+
+/* Ellipse 25 */
+
+position: absolute;
+width: 128.53px;
+height: 110.93px;
+left: 1064.58px;
+top: 873.83px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.98, -0.19, 0.64, -0.77, 0, 0);
+
+
+/* Ellipse 26 */
+
+position: absolute;
+width: 108.11px;
+height: 147.14px;
+left: 952.32px;
+top: 732.33px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.91, -0.43, 0.89, -0.45, 0, 0);
+
+
+/* Ellipse 27 */
+
+position: absolute;
+width: 126.41px;
+height: 115.55px;
+left: 1216.57px;
+top: 632.21px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.98, 0.22, -0.69, -0.72, 0, 0);
+
+
+/* Ellipse 28 */
+
+position: absolute;
+width: 126.41px;
+height: 115.55px;
+left: 1337.88px;
+top: 648.31px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.98, 0.22, -0.69, -0.72, 0, 0);
+
+
+/* Ellipse 29 */
+
+position: absolute;
+width: 132.01px;
+height: 102.71px;
+left: 1117.58px;
+top: 713.58px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.99, -0.14, 0.51, -0.86, 0, 0);
+
+
+/* Ellipse 30 */
+
+position: absolute;
+width: 126.41px;
+height: 115.55px;
+left: 775.43px;
+top: 589.27px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.98, 0.22, -0.69, -0.72, 0, 0);
+
+
+/* Ellipse 31 */
+
+position: absolute;
+width: 126.41px;
+height: 115.55px;
+left: 896.74px;
+top: 605.37px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.98, 0.22, -0.69, -0.72, 0, 0);
+
+
+/* Ellipse 32 */
+
+position: absolute;
+width: 132.01px;
+height: 102.71px;
+left: 676.44px;
+top: 670.64px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.99, -0.14, 0.51, -0.86, 0, 0);
+
+
+/* Ellipse 33 */
+
+position: absolute;
+width: 126.41px;
+height: 115.55px;
+left: 934.17px;
+top: 317.68px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.98, 0.22, -0.69, -0.72, 0, 0);
+
+
+/* Ellipse 34 */
+
+position: absolute;
+width: 126.41px;
+height: 115.55px;
+left: 1077.61px;
+top: 798.96px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.98, 0.22, -0.69, -0.72, 0, 0);
+
+
+/* Ellipse 35 */
+
+position: absolute;
+width: 132.01px;
+height: 102.71px;
+left: 857.31px;
+top: 864.23px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.99, -0.14, 0.51, -0.86, 0, 0);
+
+
+/* Ellipse 36 */
+
+position: absolute;
+width: 73.86px;
+height: 183.58px;
+left: 1116.98px;
+top: 646.33px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(0.51, 0.86, -0.99, 0.14, 0, 0);
+
+
+/* Ellipse 37 */
+
+position: absolute;
+width: 108.11px;
+height: 147.14px;
+left: 617.06px;
+top: 857.21px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.91, -0.43, 0.89, -0.45, 0, 0);
+
+
+/* Ellipse 38 */
+
+position: absolute;
+width: 128.53px;
+height: 110.93px;
+left: 705.05px;
+top: 928.22px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.98, -0.19, 0.64, -0.77, 0, 0);
+
+
+/* Ellipse 39 */
+
+position: absolute;
+width: 108.11px;
+height: 147.14px;
+left: 592.79px;
+top: 786.71px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.91, -0.43, 0.89, -0.45, 0, 0);
+
+
+/* Ellipse 40 */
+
+position: absolute;
+width: 126.41px;
+height: 115.55px;
+left: 857.04px;
+top: 686.6px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.98, 0.22, -0.69, -0.72, 0, 0);
+
+
+/* Ellipse 41 */
+
+position: absolute;
+width: 126.41px;
+height: 115.55px;
+left: 978.35px;
+top: 702.7px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.98, 0.22, -0.69, -0.72, 0, 0);
+
+
+/* Ellipse 42 */
+
+position: absolute;
+width: 132.01px;
+height: 102.71px;
+left: 758.05px;
+top: 767.97px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.99, -0.14, 0.51, -0.86, 0, 0);
+
+
+/* Ellipse 43 */
+
+position: absolute;
+width: 69.34px;
+height: 186.96px;
+left: 918.44px;
+top: 281.19px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(0.34, -0.94, 1, 0.09, 0, 0);
+
+
+/* Ellipse 44 */
+
+position: absolute;
+width: 69.34px;
+height: 186.96px;
+left: 1039.75px;
+top: 297.29px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(0.34, -0.94, 1, 0.09, 0, 0);
+
+
+/* Ellipse 45 */
+
+position: absolute;
+width: 113.62px;
+height: 138.88px;
+left: 874.33px;
+top: 297.38px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(0.93, -0.37, 0.86, 0.52, 0, 0);
+
+
+/* Ellipse 46 */
+
+position: absolute;
+width: 69.34px;
+height: 186.96px;
+left: 1099.31px;
+top: 474.78px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(0.34, -0.94, 1, 0.09, 0, 0);
+
+
+/* Ellipse 47 */
+
+position: absolute;
+width: 69.34px;
+height: 186.96px;
+left: 1220.62px;
+top: 490.88px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(0.34, -0.94, 1, 0.09, 0, 0);
+
+
+/* Ellipse 48 */
+
+position: absolute;
+width: 113.62px;
+height: 138.88px;
+left: 1055.19px;
+top: 490.96px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(0.93, -0.37, 0.86, 0.52, 0, 0);
+
+
+/* Ellipse 49 */
+
+position: absolute;
+width: 130.4px;
+height: 106.62px;
+left: 1427.89px;
+top: 440.17px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(-0.99, -0.17, 0.58, -0.82, 0, 0);
+
+
+/* Ellipse 50 */
+
+position: absolute;
+width: 134.11px;
+height: 97.31px;
+left: 898.59px;
+top: 457.28px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(1, -0.09, 0.37, 0.93, 0, 0);
+
+
+/* Ellipse 51 */
+
+position: absolute;
+width: 119.64px;
+height: 128.74px;
+left: 918.44px;
+top: 547.62px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(0.95, -0.3, 0.8, 0.6, 0, 0);
+
+
+/* Ellipse 52 */
+
+position: absolute;
+width: 134.11px;
+height: 97.31px;
+left: 874.33px;
+top: 386.79px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(1, -0.09, 0.37, 0.93, 0, 0);
+
+
+/* Ellipse 53 */
+
+position: absolute;
+width: 69.34px;
+height: 186.96px;
+left: 1000.05px;
+top: 378.52px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(0.34, -0.94, 1, 0.09, 0, 0);
+
+
+/* Ellipse 54 */
+
+position: absolute;
+width: 69.34px;
+height: 186.96px;
+left: 1121.36px;
+top: 394.62px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(0.34, -0.94, 1, 0.09, 0, 0);
+
+
+/* Ellipse 55 */
+
+position: absolute;
+width: 113.62px;
+height: 138.88px;
+left: 955.94px;
+top: 394.71px;
+
+background: linear-gradient(180deg, #219EBC 22.5%, #8ECAE6 54%, #FFF1DD 100%);
+transform: matrix(0.93, -0.37, 0.86, 0.52, 0, 0);
+
+
+/* Hello, So glad you’re here. If you are looking for Jade Roberts, you’ve come to the right place. Unless you’re looking for a Sylvester Stallone impersonator. That’s a little awkward. I like to think of myself as a Jade of all trades, I’m a curious soul and a fast learner. With me on your team, we can definitely knockout like Rocky. */
+
+position: absolute;
+width: 631px;
+height: 531px;
+left: 85px;
+top: 242px;
+
+font-family: 'Lilita One';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 37px;
+
+color: #000000;
