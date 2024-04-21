@@ -41,8 +41,13 @@ button {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 48px;
-    style="left: 230px; top: 37px; position: absolute; color: black; font-size: 40px; font-family: Lilita One; font-weight: 400; word-wrap: break-word">
+  font-size: 40px;
+    left: 230px; 
+    top: 37px; 
+    position: absolute; 
+    font-family: Lilita One; 
+    font-weight: 400; 
+    word-wrap: break-word"
 }
 
 /* Rectangle 1 */
