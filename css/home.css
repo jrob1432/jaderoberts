@@ -10,13 +10,45 @@ background: linear-gradient(180deg, #8ECAE6 0%, #219EBC 100%), #FFFFFF;
 
 /* Menu */
 
-position: absolute;
+position: relative;
 width: 1440px;
 height: 120px;
 left: -1px;
 top: 0px;
 
 filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+ */
+
+.sticky {
+	background-color: #ffffff;
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+}
+
+/**
+ * Display lists on a single line.
+ * @bugfix Prevent webkit from removing list semantics
+ * 1. Add a non-breaking space
+ * 2. Make sure it doesn't mess up the DOM flow
+ */
+.list-inline {
+	list-style: none;
+	margin-left: -0.5em;
+	margin-right: -0.5em;
+	padding: 0;
+}
+
+.list-inline > li {
+	display: inline-block;
+	margin-left: 0.5em;
+	margin-right: 0.5em;
+}
+
+.list-inline > li:before {
+	content: "\200B"; /* 1 */
+	position: absolute; /* 2 */
+}
 
 
 /* Rectangle 1 */
