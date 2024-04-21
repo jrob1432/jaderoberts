@@ -85,6 +85,16 @@ list-inline > li {
 list-inline > li:before {
 	content: "\200B"; /* 1 */
 	position: absolute; /* 2 */
+
+	/* Group 21 */
+
+position: absolute;
+width: 1154px;
+height: 712.22px;
+left: 360px;
+top: 216px;
+
+
 }
 
 
