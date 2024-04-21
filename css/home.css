@@ -19,7 +19,7 @@ top: 0px;
 filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
  */
 
-.sticky {
+sticky {
 	
 	position: -webkit-sticky;
 	position: sticky;
@@ -59,7 +59,7 @@ li a:hover {
   background-color: #111;
 }
 
-.active {
+active {
   background-color: #4CAF50;
 }
 
@@ -69,20 +69,20 @@ li a:hover {
  * 1. Add a non-breaking space
  * 2. Make sure it doesn't mess up the DOM flow
  */
-.list-inline {
+list-inline {
 	list-style: none;
 	margin-left: -0.5em;
 	margin-right: -0.5em;
 	padding: 0;
 }
 
-.list-inline > li {
+list-inline > li {
 	display: inline-block;
 	margin-left: 0.5em;
 	margin-right: 0.5em;
 }
 
-.list-inline > li:before {
+list-inline > li:before {
 	content: "\200B"; /* 1 */
 	position: absolute; /* 2 */
 }
