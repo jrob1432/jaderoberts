@@ -19,6 +19,7 @@ menu ul {
   position: -webkit-sticky; /* Safari */
   position: sticky;
   top: 0;
+
 }
 
 menu li {
@@ -29,10 +30,11 @@ display: flex;
 
 menu li a {
   display: flex;
-  color: white;
+  color: green;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+size: 40px;
 }
 
 menu li a: hover {
