@@ -144,7 +144,7 @@ background: #8ECAE6;
 
 /* Logo */
 
-position: absolute;
+position: relative;
 left: 90.97%;
 right: 1.95%;
 top: 2.5%;
@@ -177,7 +177,7 @@ transform: matrix(0.98, -0.21, 0.21, 0.98, 0, 0);
 
 /* About Jade */
 
-position: absolute;
+position: relative;
 left: 15.97%;
 right: 70.62%;
 top: 30.83%;
@@ -196,7 +196,7 @@ color: #000000;
 
 /* Home */
 
-position: absolute;
+position: relative;
 left: 4.03%;
 right: 89.17%;
 top: 30.83%;
@@ -215,7 +215,7 @@ color: #000000;
 
 /* Projects */
 
-position: absolute;
+position: relative;
 left: 34.51%;
 right: 55.76%;
 top: 30.83%;
@@ -234,7 +234,7 @@ color: #000000;
 
 /* Creative Outlets */
 
-position: absolute;
+position: relative;
 left: 49.38%;
 right: 31.18%;
 top: 30.83%;
@@ -253,7 +253,7 @@ color: #000000;
 
 /* Contact */
 
-position: absolute;
+position: relative;
 left: 73.96%;
 right: 16.81%;
 top: 30.83%;
