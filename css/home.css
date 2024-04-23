@@ -1,8 +1,8 @@
 /* Home */
 
 position: relative;
-width: 1440px;
-height: 966px;
+width: relative;
+height: relative;
 overflow-y: scroll;
 
 background: linear-gradient(180deg, #8ECAE6 0%, #219EBC 100%), #FFFFFF;
@@ -11,7 +11,7 @@ background: linear-gradient(180deg, #8ECAE6 0%, #219EBC 100%), #FFFFFF;
 /* Menu */
 
 position: relative;
-width: 1440px;
+width: relative;
 height: 120px;
 left: -1px;
 top: 0px;
@@ -44,7 +44,7 @@ html {
 }
 
 .menu li {
-display:inline;
+display: flex;
   float: left;
 	
 }
