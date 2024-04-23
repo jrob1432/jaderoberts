@@ -1,16 +1,19 @@
-sticky {
-	
-	position: -webkit-sticky;
-	position: sticky;
-	top: 0;
-}
 html {
       scroll-behavior: smooth;
 	max-width: 100%;
     overflow-x: hidden;
     }
 
+sticky {
+	
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+}
+
+
 .menu ul {
+	display: flex;
   list-style-type: none;
   margin: 0;
   padding: 0;
