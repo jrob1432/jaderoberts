@@ -6,9 +6,11 @@ sticky {
 }
 html {
       scroll-behavior: smooth;
+	max-width: 100%;
+    overflow-x: hidden;
     }
 
-.menu ul {
+menu ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -19,13 +21,13 @@ html {
   top: 0;
 }
 
-.menu li {
+menu li {
 display: flex;
   float: left;
 	
 }
 
-.menu li a {
+menu li a {
   display: flex;
   color: white;
   text-align: center;
@@ -33,11 +35,11 @@ display: flex;
   text-decoration: none;
 }
 
-.menu li a: hover {
+menu li a: hover {
   background-color: #111;
 }
 
-.menu active {
+menu active {
   background-color: #4CAF50;
 }
 
@@ -83,7 +85,7 @@ right: 0%;
 top: 0%;
 bottom: 0%;
 
-html, body {
+body {
     max-width: 100%;
     overflow-x: hidden;
 }
