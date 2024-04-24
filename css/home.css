@@ -12,7 +12,7 @@ sticky {
 }
 
 
-menu ul {
+.menu ul {
 	display: flex;
   list-style-type: none;
   margin: 0;
@@ -25,13 +25,13 @@ menu ul {
 
 }
 
-menu ul li {
+.menu ul li {
 display: flex;
   float: left;
 	
 }
 
-menu li a {
+.menu li a {
   display: flex;
   color: green;
   text-align: center;
@@ -40,7 +40,7 @@ menu li a {
 size: 40px;
 }
 
-menu a {
+.menu a {
   display: flex;
   color: green;
   text-align: center;
@@ -49,11 +49,11 @@ menu a {
 size: 40px;
 }
 
-menu li a: hover {
+.menu li a: hover {
   background-color: #111;
 }
 
-menu active {
+.menu active {
   background-color: #4CAF50;
 }
 
