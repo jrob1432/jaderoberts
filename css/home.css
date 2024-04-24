@@ -1,3 +1,4 @@
+
 html {
       scroll-behavior: smooth;
 	max-width: 100%;
@@ -24,8 +25,7 @@ html {
   top: 0;
 
 }
-
-.menu ul li {
+.menu li {
 display: flex;
   float: left;
 	
@@ -33,11 +33,11 @@ display: flex;
 
 .menu li a {
   display: flex;
-  color: green;
+  color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-size: 40px;
+font-size: 40px;
 }
 
 .menu a {
@@ -56,7 +56,6 @@ size: 40px;
 .menu active {
   background-color: #4CAF50;
 }
-
 	
 /* Home */
 
