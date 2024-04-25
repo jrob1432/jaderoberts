@@ -28,6 +28,8 @@ html {
 .menu li {
 display: flex;
   float: left;
+  background-color: #8ECAE6;
+  font-family: Lilita One;
 	
 }
 
@@ -38,6 +40,7 @@ display: flex;
   padding: 14px 16px;
   text-decoration: none;
 font-size: 40px;
+  font-weight: 400;
 }
 
 .menu a {
