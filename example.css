@@ -1,0 +1,264 @@
+<!doctype html>
+<html lang="en-GB">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="profile" href="https://gmpg.org/xfn/11">
+  <meta name="description" content="The Nomads of Finnish theatre">
+  <link media="all" href="https://quovadis.fi/hallinta/wp-content/cache/autoptimize/css/autoptimize_f164a68eaa0d464d940d7cdca160041a.css" rel="stylesheet">
+  <title>About us &#8211; Theatre Quo Vadis</title>
+  <meta name='robots' content='max-image-preview:large' />
+  <link rel="alternate" href="https://quovadis.fi/info/" hreflang="fi" />
+  <link rel="alternate" href="https://quovadis.fi/en/info-2/" hreflang="en" />
+  <link rel="alternate" type="application/rss+xml" title="Theatre Quo Vadis &raquo; Feed" href="https://quovadis.fi/en/feed/" />
+  <link rel="alternate" type="application/rss+xml" title="Theatre Quo Vadis &raquo; Comments Feed" href="https://quovadis.fi/en/comments/feed/" />
+  <script>
+    window._wpemojiSettings = {
+      "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/",
+      "ext": ".png",
+      "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/",
+      "svgExt": ".svg",
+      "source": {
+        "concatemoji": "https:\/\/quovadis.fi\/hallinta\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.2"
+      }
+    };
+    /*! This file is auto-generated */
+    ! function(i, n) {
+      var o, s, e;
+
+      function c(e) {
+        try {
+          var t = {
+            supportTests: e,
+            timestamp: (new Date).valueOf()
+          };
+          sessionStorage.setItem(o, JSON.stringify(t))
+        } catch (e) {}
+      }
+
+      function p(e, t, n) {
+        e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(t, 0, 0);
+        var t = new Uint32Array(e.getImageData(0, 0, e.canvas.width, e.canvas.height).data),
+          r = (e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(n, 0, 0), new Uint32Array(e.getImageData(0, 0, e.canvas.width, e.canvas.height).data));
+        return t.every(function(e, t) {
+          return e === r[t]
+        })
+      }
+
+      function u(e, t, n) {
+        switch (t) {
+          case "flag":
+            return n(e, "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f", "\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f") ? !1 : !n(e, "\ud83c\uddfa\ud83c\uddf3", "\ud83c\uddfa\u200b\ud83c\uddf3") && !n(e, "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f", "\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");
+          case "emoji":
+            return !n(e, "\ud83d\udc26\u200d\u2b1b", "\ud83d\udc26\u200b\u2b1b")
+        }
+        return !1
+      }
+
+      function f(e, t, n) {
+        var r = "undefined" != typeof WorkerGlobalScope && self instanceof WorkerGlobalScope ? new OffscreenCanvas(300, 150) : i.createElement("canvas"),
+          a = r.getContext("2d", {
+            willReadFrequently: !0
+          }),
+          o = (a.textBaseline = "top", a.font = "600 32px Arial", {});
+        return e.forEach(function(e) {
+          o[e] = t(a, e, n)
+        }), o
+      }
+
+      function t(e) {
+        var t = i.createElement("script");
+        t.src = e, t.defer = !0, i.head.appendChild(t)
+      }
+      "undefined" != typeof Promise && (o = "wpEmojiSettingsSupports", s = ["flag", "emoji"], n.supports = {
+        everything: !0,
+        everythingExceptFlag: !0
+      }, e = new Promise(function(e) {
+        i.addEventListener("DOMContentLoaded", e, {
+          once: !0
+        })
+      }), new Promise(function(t) {
+        var n = function() {
+          try {
+            var e = JSON.parse(sessionStorage.getItem(o));
+            if ("object" == typeof e && "number" == typeof e.timestamp && (new Date).valueOf() < e.timestamp + 604800 && "object" == typeof e.supportTests) return e.supportTests
+          } catch (e) {}
+          return null
+        }();
+        if (!n) {
+          if ("undefined" != typeof Worker && "undefined" != typeof OffscreenCanvas && "undefined" != typeof URL && URL.createObjectURL && "undefined" != typeof Blob) try {
+            var e = "postMessage(" + f.toString() + "(" + [JSON.stringify(s), u.toString(), p.toString()].join(",") + "));",
+              r = new Blob([e], {
+                type: "text/javascript"
+              }),
+              a = new Worker(URL.createObjectURL(r), {
+                name: "wpTestEmojiSupports"
+              });
+            return void(a.onmessage = function(e) {
+              c(n = e.data), a.terminate(), t(n)
+            })
+          } catch (e) {}
+          c(n = f(s, u, p))
+        }
+        t(n)
+      }).then(function(e) {
+        for (var t in e) n.supports[t] = e[t], n.supports.everything = n.supports.everything && n.supports[t], "flag" !== t && (n.supports.everythingExceptFlag = n.supports.everythingExceptFlag && n.supports[t]);
+        n.supports.everythingExceptFlag = n.supports.everythingExceptFlag && !n.supports.flag, n.DOMReady = !1, n.readyCallback = function() {
+          n.DOMReady = !0
+        }
+      }).then(function() {
+        return e
+      }).then(function() {
+        var e;
+        n.supports.everything || (n.readyCallback(), (e = n.source || {}).concatemoji ? t(e.concatemoji) : e.wpemoji && e.twemoji && (t(e.twemoji), t(e.wpemoji)))
+      }))
+    }((window, document), window._wpemojiSettings);
+  </script>
+  <script id="sgr-js-extra">
+    var sgr = {
+      "sgr_site_key": "6LdDMuUUAAAAAL6FhwSvm0akpLDD6felAEb4hJ0g"
+    };
+  </script>
+  <script src="https://quovadis.fi/hallinta/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+  <script id="wp-statistics-tracker-js-extra">
+    var WP_Statistics_Tracker_Object = {
+      "hitRequestUrl": "https:\/\/quovadis.fi\/wp-json\/wp-statistics\/v2\/hit?wp_statistics_hit_rest=yes&track_all=1&current_page_type=page&current_page_id=95&search_query&page_uri=L2VuL2luZm8tMi8",
+      "keepOnlineRequestUrl": "https:\/\/quovadis.fi\/wp-json\/wp-statistics\/v2\/online?wp_statistics_hit_rest=yes&track_all=1&current_page_type=page&current_page_id=95&search_query&page_uri=L2VuL2luZm8tMi8",
+      "option": {
+        "dntEnabled": false,
+        "cacheCompatibility": ""
+      }
+    };
+  </script>
+  <link rel="https://api.w.org/" href="https://quovadis.fi/wp-json/" />
+  <link rel="alternate" type="application/json" href="https://quovadis.fi/wp-json/wp/v2/pages/95" />
+  <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://quovadis.fi/hallinta/xmlrpc.php?rsd" />
+  <meta name="generator" content="WordPress 6.5.2" />
+  <link rel="canonical" href="https://quovadis.fi/en/info-2/" />
+  <link rel='shortlink' href='https://quovadis.fi/?p=95' />
+  <link rel="alternate" type="application/json+oembed" href="https://quovadis.fi/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fquovadis.fi%2Fen%2Finfo-2%2F" />
+  <link rel="alternate" type="text/xml+oembed" href="https://quovadis.fi/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fquovadis.fi%2Fen%2Finfo-2%2F&#038;format=xml" />
+  <link rel="icon" href="https://quovadis.fi/hallinta/wp-content/uploads/2021/03/cropped-mainpage_illo_2x-32x32.png" sizes="32x32" />
+  <link rel="icon" href="https://quovadis.fi/hallinta/wp-content/uploads/2021/03/cropped-mainpage_illo_2x-192x192.png" sizes="192x192" />
+  <link rel="apple-touch-icon" href="https://quovadis.fi/hallinta/wp-content/uploads/2021/03/cropped-mainpage_illo_2x-180x180.png" />
+  <meta name="msapplication-TileImage" content="https://quovadis.fi/hallinta/wp-content/uploads/2021/03/cropped-mainpage_illo_2x-270x270.png" />
+</head>
+
+<body class="page-template-default page page-id-95 yellow no-sidebar">
+  <div id="page" class="site"> <a class="skip-link screen-reader-text" href="#primary">Skip to content</a>
+    <header id="masthead" class="site-header">
+      <div class="site-logo">
+        <p class="site-title"><a href="https://quovadis.fi/en/etusivu-english/" rel="home">Quo Vadis</a></p>
+      </div>
+      <nav id="site-navigation" class="main-navigation"> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><span class="screen-reader-text">Primary Menu</span></button>
+        <div class="menu-main-menu-container">
+          <ul id="primary-menu" class="menu">
+            <li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-111"><a href="https://quovadis.fi/en/etusivu-english/">Home</a></li>
+            <li id="menu-item-118" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-118"><a href="http://quovadis.fi/en/ohjelmisto/">What&#8217;s on</a></li>
+            <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="https://quovadis.fi/en/news/">News</a></li>
+            <li id="menu-item-112" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-95 current_page_item menu-item-112"><a href="https://quovadis.fi/en/info-2/" aria-current="page">About us</a></li>
+            <li id="menu-item-110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-110"><a href="https://quovadis.fi/en/contact/">Contact</a></li>
+            <li id="menu-item-113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a href="https://quovadis.fi/en/media-eng/">Media</a></li>
+            <li id="menu-item-115-fi" class="lang-item lang-item-4 lang-item-fi lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-115-fi"><a href="https://quovadis.fi/info/" hreflang="fi" lang="fi">Suomi</a></li>
+          </ul>
+        </div> <button id="searchbutton"><noscript><img src="https://quovadis.fi/hallinta/wp-content/themes/quovadis/img/search_icon_x2.png" alt="Search" width="68" height="68"></noscript><img class="lazyload" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2068%2068%22%3E%3C/svg%3E' data-src="https://quovadis.fi/hallinta/wp-content/themes/quovadis/img/search_icon_x2.png" alt="Search" width="68" height="68"></button>
+        <div id="modalsearch" class="modal-overlay">
+          <div class="modal-content">
+            <div class="modal-header"> <span class="closebutton"><span class="screen-reader-text">Close</span></span></div>
+            <div class="modal-body">
+              <form role="search" method="get" class="search-form" action="https://quovadis.fi/en/"> <label> <span class="screen-reader-text">Search for:</span> <input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" /> </label> <input type="submit" class="search-submit" value="Search" /></form>
+            </div>
+          </div>
+        </div>
+      </nav>
+    </header>
+    <main id="primary" class="site-main">
+      <article id="post-95" class="post-95 page type-page status-publish hentry">
+        <header class="entry-header">
+          <div class="section-title">About us</div>
+        </header>
+        <div class="entry-content">
+          <h1 class="wp-block-heading">When actions are poetry and words are action</h1>
+          <figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="681" src="http://u63550.www2.webdomain.fi/hallinta/wp-content/uploads/2021/03/19-11-15-27-1024x681.jpg" alt="Alt text in English" class="wp-image-98" srcset="https://quovadis.fi/hallinta/wp-content/uploads/2021/03/19-11-15-27-1024x681.jpg 1024w, https://quovadis.fi/hallinta/wp-content/uploads/2021/03/19-11-15-27-300x200.jpg 300w, https://quovadis.fi/hallinta/wp-content/uploads/2021/03/19-11-15-27-768x511.jpg 768w, https://quovadis.fi/hallinta/wp-content/uploads/2021/03/19-11-15-27-1536x1022.jpg 1536w, https://quovadis.fi/hallinta/wp-content/uploads/2021/03/19-11-15-27.jpg 1706w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+          <h2 class="wp-block-heading">QUO VADIS?</h2>
+          <p>Theatre Quo Vadis focuses on ways of doing that create extensive arcs over long periods, and where performance and refinement take turns. Adaptive ways of working and producing enable exploratory theatre, where the performance isn’t just the end result, but in itself a way to explore and make sense by means of performing arts.</p>
+          <p>Quo Vadis is known for interdisciplinary work, multilingual children’s theatre and international productions.</p>
+          <p>Quo Vadis is not rooted to a specific performance space, but has rather worked as a traveling nomad company from the very beginning. Performances have been done on multiple different theatre stages, festivals, outdoor spaces, a yurt, a boat, private residences… During its lifetime Quo Vadis has carried out about 60 different productions in Finland and abroad. These productions include drama, dance, lecture performances, children’s plays, music, poetry, storytelling, videos, written publications an so on.</p>
+          <h2 class="wp-block-heading">PARTNERS</h2>
+          <p>Esitystaiteen Keskus, Teatterikeskus, UNO – Uuden näytelmän ohjelma, Kanneltalo, Tampereen Työväen Teatteri, Teatteri Sydänkäpy, Rakastajat-teatteri, Espoon Kaupunginteatteri, KokoTeatteri, Compagnie Chiloé, Compagnie Sale Gamine, Réplika Teatro</p>
+          <h2 class="wp-block-heading">THANK YOU FOR THE SUPPORT</h2>
+          <p>The Arts Promotion Centre Finland (Taike), City of Helsinki (Helsingin kaupunki)</p>
+        </div>
+      </article>
+    </main>
+    <footer id="colophon" class="site-footer">
+      <div class="social-links">
+        <h1>Follow us!</h1>
+        <nav class="wrapper">
+          <ul>
+            <li id="menu-item-10" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10"><a href="https://www.facebook.com/teatteriquovadis/">
+                <div class="link-text">Facebook</div>
+              </a></li>
+            <li id="menu-item-11" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11"><a href="https://www.instagram.com/theatrequovadis/">
+                <div class="link-text">Instagram</div>
+              </a></li>
+            <li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12"><a href="https://twitter.com/teatteriquovadi">
+                <div class="link-text">Twitter</div>
+              </a></li>
+            <li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a href="https://www.youtube.com/channel/UCfyh-XnhUO_NzCRubdRqWew/featured">
+                <div class="link-text">YouTube</div>
+              </a></li>
+          </ul>
+        </nav>
+      </div>
+      <div class="site-info">
+        <div class="wrapper">
+          <section id="text-5" class="widget widget_text">
+            <div class="textwidget">
+              <p>Theater Quo Vadis</p>
+              <p>Accessibility Statement</p>
+            </div>
+          </section>
+          <section id="text-3" class="widget widget_text">
+            <div class="textwidget">
+              <p>c/o Esitystaiteen Keskus<br /> Kaasutehtaankatu 1/33<br /> 00540 Helsinki, Finland</p>
+            </div>
+          </section>
+          <section id="text-4" class="widget widget_text">
+            <div class="textwidget">
+              <p><a href="javascript:;" data-enc-email="grnggrev.dhbinqvf[at]tznvy.pbz" class="mail-link" data-wpel-link="ignore"><span id="eeb-357626-848612"></span>
+                  <script type="text/javascript">
+                    (function() {
+                      var ml = "4iteucvroa0ml%g.sdq",
+                        mi = "23922371?B4869A1@=0:>;91<?58;",
+                        o = "";
+                      for (var j = 0, l = mi.length; j < l; j++) {
+                        o += ml.charAt(mi.charCodeAt(j) - 48);
+                      }
+                      document.getElementById("eeb-357626-848612").innerHTML = decodeURIComponent(o);
+                    }());
+                  </script><noscript>*protected email*</noscript>
+                </a></p>
+              <p>050 3035 029</p>
+            </div>
+          </section>
+        </div>
+      </div>
+    </footer>
+  </div> <noscript>
+    <style>
+      .lazyload {
+        display: none;
+      }
+    </style>
+  </noscript>
+  <script data-noptimize="1">
+    window.lazySizesConfig = window.lazySizesConfig || {};
+    window.lazySizesConfig.loadMode = 1;
+  </script>
+  <script async data-noptimize="1" src='https://quovadis.fi/hallinta/wp-content/plugins/autoptimize/classes/external/js/lazysizes.min.js?ao_version=3.1.11'></script>
+  <script defer src="https://quovadis.fi/hallinta/wp-content/cache/autoptimize/js/autoptimize_982203037502e2b61e76297ca703ae38.js"></script>
+</body>
+
+</html>
