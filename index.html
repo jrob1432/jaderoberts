@@ -103,16 +103,12 @@ header a:hover, .dropdown:hover .dropbtn {
 /*the link text*/
 
 header .dropdown-content {
-    display: flex;
-	z-index: 5;
-    position: absolute;
-    width: fit-content;
-    justify-content: center;
-    background-color: #FFF1DD;
-    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-    flex-wrap: nowrap;
-    flex-direction: column;
-    align-items: stretch;
+   float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: center;
 }
 
 header .dropdown-content a {
@@ -126,10 +122,30 @@ header .dropdown-content a {
 
 header .dropdown-content a:hover {
   background-color: #FFA800;
+	display: flex;
+	z-index: 5;
+    position: absolute;
+    width: fit-content;
+    justify-content: center;
+    background-color: #FFF1DD;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    flex-wrap: nowrap;
+    flex-direction: column;
+    align-items: stretch;
 }
 
 header .dropdown:hover .dropdown-content {
   display: block;
+	display: flex;
+	z-index: 5;
+    position: absolute;
+    width: fit-content;
+    justify-content: center;
+    background-color: #FFF1DD;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    flex-wrap: nowrap;
+    flex-direction: column;
+    align-items: stretch;
 }
 	
 </style>  
