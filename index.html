@@ -83,6 +83,7 @@ header li a {
 
 header .dropdown {
   overflow: hidden;
+	z-index: 10;
 }
 
 /*dropdown font and text (work)*/
@@ -100,6 +101,7 @@ header .dropdown .dropbtn {
 header a:hover, .dropdown:hover .dropbtn {
     background-color: #219EBC;
     border-radius: 700px 700px;
+	z-index: 10;
 }
 
 /*the link text*/
@@ -110,7 +112,7 @@ display: none;
   position: absolute;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 1;
+z-index: 10;
 }
 
 header .dropdown-content a {
@@ -119,6 +121,7 @@ header .dropdown-content a {
   text-decoration: none;
   display: block;
 	font-family: Gudea;
+	z-index: 10;
 }
 
 header .dropdown-content a:hover {
