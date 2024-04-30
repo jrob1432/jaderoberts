@@ -9,6 +9,7 @@ html {
   
   /* Set the margin to 0 to remove browser default margins */
   margin: 0;
+    }
 
 /* FONTS*/
 .lilita-one-regular {
@@ -33,9 +34,6 @@ html {
   font-weight: 400;
   font-style: italic;
 }
-
-
-    }
 
 .sticky {
 	
