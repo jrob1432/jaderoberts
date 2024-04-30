@@ -9,6 +9,9 @@ html {
   
   /* Set the margin to 0 to remove browser default margins */
   margin: 0;
+	 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 	
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
