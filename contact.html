@@ -1,22 +1,151 @@
-<div class="Contact" style="width: 1440px; height: 3436px; position: relative; background: #FFF1DD">
-  <div class="Design" style="width: 2000.04px; height: 877.90px; left: -240px; top: 2338px; position: absolute">
+<html>
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="home.css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/dixonandmoe/rellax@master/rellax.min.js"></script>
+  <script src="script.js"></script>
+	
+<Title>     
+Contact | Jade Roberts Portfolio 
+</Title>  
+<style type=text/css>  
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gudea:ital,wght@0,400;0,700;1,400&display=swap');
+body {
+  /* Define the gradient */
+  background-image: linear-gradient(180deg, #8ECAE6 0%, #219EBC 100%);
+  
+  /* Set the height to 100% to take the full view */
+  height: auto;
+  
+  /* Set the margin to 0 to remove browser default margins */
+  margin: 0;
+  
+  /* No scroll bar*/
+  overflow: hidden;
+}
 
-    <div class="Contact" style="width: 1440px; height: 966px; position: relative; background: linear-gradient(180deg, #8ECAE6 0%, #219EBC 100%)">
-  <div class="Menu" style="width: 1440px; height: 120px; left: 0px; top: 0px; position: absolute; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)">
-    <div class="Rectangle1" style="width: 1440px; height: 120px; left: 0px; top: 0px; position: absolute">
-      <div class="Rectangle1" style="width: 1440px; height: 120px; left: 0px; top: 0px; position: absolute; background: #8ECAE6"></div>
-      <div class="Logo" style="width: 101.90px; height: 113.37px; left: 1310px; top: 3px; position: absolute">
-        <div class="Ellipse4" style="width: 46.73px; height: 98.96px; left: 0px; top: 0px; position: absolute; background: linear-gradient(180deg, rgba(255, 168.30, 0, 0.50) 0%, rgba(254.65, 254.65, 254.65, 0.50) 100%)"></div>
-        <div class="Rectangle2" style="width: 61.20px; height: 102.55px; left: 21px; top: 13px; position: absolute; transform: rotate(-12.15deg); transform-origin: 0 0; background: linear-gradient(180deg, rgba(222, 77, 134, 0.50) 0%, rgba(254.65, 254.65, 254.65, 0.50) 100%)"></div>
-      </div>
+header {  
+  
+background-color: #8ecae6;  
+position: fixed;  
+left: 0;  
+right: 0;   
+height: 100px;  
+display: flex;  
+align-items: center;  
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)
+	
+}
+
+header * {  
+display: inline;  
+	
+} 
+
+header li {  
+margin: 20px;  
+
+}  
+
+header li a {  
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  left: 60px; top: 35px;
+  font-size: 40px;
+  font-weight: 400;
+  font-family: Lilita One;
+}  
+
+/*dropdown section and placement*/
+
+header .dropdown {
+  overflow: hidden;
+}
+
+/*dropdown font and text (work)*/
+
+header .dropdown .dropbtn {
+  font-size: relative;  
+  border: none;
+	z-index: 10;
+  outline: none;
+  background-color: inherit;
+  font-family: Gudea;
+  margin: 0;
+}
+
+header a:hover, .dropdown:hover .dropbtn {
+    background-color: #219EBC;
+    border-size: 80px 900px;
+    border-radius: 80px 900px;
+}
+
+/*the link text*/
+
+header .dropdown-content {
+   background-color: #FFF1DD;
+display: none;
+  position: absolute;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+header .dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  float: left;
+  display: block;
+	font-family: Gudea;
+}
+
+header .dropdown-content a:hover {
+ 
+    background-color: #FFA800;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    
+}
+
+header .dropdown:hover .dropdown-content {
+  display: flex;
+  
+}
+	
+</style>  
+</Head> 
+<Body style="
+    height: 1000px";>   
+<header>  
+<nav class="sticky">
+	<ul class="header">
+	<li><a href="index.html">Home</a></li>
+	    <li><a href="about.html">About</a></li>
+	    <div class="dropdown"><li><a href="projects.html">
+        
+    <button class="dropbtn">Work
+      <i class="fa fa-caret-down"></i></a></li>
+    </button>
+    <div class="dropdown-content">
+      <a href="#">Graphic Design and Promotional Assets </a>
+      <a href="#">UX Research and Design </a>
+      <a href="#">Copywriting and Conversation Design </a>
+      <a href="#">Film Prototype Assets and Motion Graphics </a>
     </div>
+  </div> 
+	    <li><a href="shorts.html">Creative Outlets</a></li>
+	    <li><a href="contact.html">Contact</a></li>
+	<li><a href="Example.html">Example</a></li>
+	</ul>
+	</nav>
+</header>  
+  <body>
       
-      <div class="AboutJade" style="left: 230px; top: 37px; position: absolute; color: black; font-size: 40px; font-family: Lilita One; font-weight: 400; word-wrap: break-word">About Jade</div>
-    <div class="Home" style="left: 58px; top: 37px; position: absolute; color: black; font-size: 40px; font-family: Lilita One; font-weight: 400; word-wrap: break-word">Home</div>
-    <div class="Projects" style="left: 497px; top: 37px; position: absolute; color: black; font-size: 40px; font-family: Lilita One; font-weight: 400; word-wrap: break-word">Projects</div>
-    <div class="CreativeOutlets" style="left: 711px; top: 37px; position: absolute; color: black; font-size: 40px; font-family: Lilita One; font-weight: 400; word-wrap: break-word">Creative Outlets</div>
-    <div class="Contact" style="left: 1065px; top: 37px; position: absolute; color: black; font-size: 40px; font-family: Lilita One; font-weight: 400; word-wrap: break-word">Contact</div>
-  </div>
+     
   <div class="Bg" style="width: 1998.04px; height: 877.90px; left: -148px; top: 168px; position: absolute">
     <div class="Pattern" style="width: 402.04px; height: 318.90px; left: 196px; top: 559px; position: absolute">
       <div class="Ellipse5" style="width: 118px; height: 199.50px; left: 230.98px; top: 197.76px; position: absolute; transform: rotate(98deg); transform-origin: 0 0; background: linear-gradient(285deg, rgba(222, 77, 134, 0.50) 0%, rgba(142, 202, 230, 0.50) 100%)"></div>
@@ -104,5 +233,6 @@
     </div>
   </div>
 </div>
+  </body>
  
      
