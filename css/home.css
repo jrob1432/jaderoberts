@@ -12,6 +12,7 @@ html {
 	 
     background-repeat: no-repeat;
     background-attachment: fixed;
+	overflow:auto;
 	
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
