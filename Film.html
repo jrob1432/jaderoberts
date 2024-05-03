@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <link rel="stylesheet" href="home.css" />
+  <link rel="stylesheet" href="css/home.css" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <script src="https://cdn.jsdelivr.net/gh/dixonandmoe/rellax@master/rellax.min.js"></script>
@@ -20,6 +20,7 @@ body {
   
   /* Set the height to 100% to take the full view */
   height: auto;
+	min-height: 100%;
   
   /* Set the margin to 0 to remove browser default margins */
   margin: 0;
@@ -27,103 +28,6 @@ body {
   /* No scroll bar*/
   overflow: hidden;
 }
-
-header {  
-  
-background-color: #8ecae6;  
-position: fixed;  
-left: 0;  
-right: 0;   
-height: 100px;  
-display: flex;  
-align-items: center;  
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)
-	
-}
-
-header * {  
-display: inline;  
-	
-} 
-
-header li {  
-	margin:20px;  
-	
-} 
-
-header li a {  
-  color: black;
-  text-align: center;
-  text-decoration: none;
-  left: 60px; top: 35px;
-  font-size: 40px;
-  font-weight: 400;
-  font-family: Lilita One;
-}  
-
-/*dropdown section and placement*/
-
-header .dropdown {
-  overflow: hidden;
-}
-
-/*dropdown font and text (work)*/
-
-header .dropdown .dropbtn {
-  font-size: relative;  
-  border: none;
-	z-index: 10;
-  outline: none;
-  background-color: inherit;
-  font-family: Gudea;
-  margin: 0;
-}
-
-a:hover, .dropdown:hover .dropbtn {
-    background-color: #219EBC;
-    border-size: 80px 900px;
-    border-radius: 80px 900px;
-}
-
-/*the link text and box*/
-
-.dropdown-content {
-   margin: 0px;
-	padding: 0px;
-	background-color: #FFF1DD;
-display: none;
-  position: absolute;
-  min-width: fit-content;
-min-height: min-content;
-	
-	
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 1;
-}
-
-.dropdown-content a {
-    color: black;
-  text-align: center;
-  text-decoration: none;
-  font-weight: 400;
-	padding: 12px 16px;
-    margin:0px;
-    display: block;
-    font-family: Gudea;
-  font-size: 18px;
-	
-}
-
-.dropdown-content a:hover {
-    background-color: #FFA800;
-    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-    
-}
-
-.dropdown:hover .dropdown-content {
-  display: flex;
-}
-
 	
 </style>  
 </head> 
@@ -154,7 +58,6 @@ min-height: min-content;
 </header>  
   <body>
 
-<div class="FilmAssets" style="width: 1440px; height: 2727px; position: relative; background: #FFF1DD">
   <img class="Image4" style="width: 884px; height: 687px; left: 481px; top: 1595px; position: absolute" src="https://via.placeholder.com/884x687" />
   <div class="Rectangle4" style="width: 1500px; height: 160px; left: -60px; top: 160px; position: absolute; background: #219EBC; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)"></div>
   <div class="Rectangle5" style="width: 1500px; height: 156px; left: -60px; top: 1364px; position: absolute; background: #219EBC"></div>
