@@ -19,7 +19,20 @@ html {
 <link href="https://fonts.googleapis.com/css2?family=Gudea:ital,wght@0,400;0,700;1,400&family=Lilita+One&display=swap" rel="stylesheet">
     }
 
-/* FONTS*/
+
+.sticky {
+	
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+	z-index:10;
+}
+
+body {
+   max-width: 100%;
+    overflow-x: hidden;
+	
+  /* FONTS*/
 .lilita-one-regular {
   font-family: "Lilita One", sans-serif;
   font-weight: 400;
@@ -43,17 +56,6 @@ html {
   font-style: italic;
 }
 
-.sticky {
-	
-	position: -webkit-sticky;
-	position: sticky;
-	top: 0;
-	z-index:10;
-}
-
-body {
-  
-  
 }
 
 header {  
